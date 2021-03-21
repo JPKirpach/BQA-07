@@ -1,0 +1,146 @@
+footer {
+    clear: both;
+    position: relative;
+    margin-top: -200px;
+    background-color: #071d39;
+}
+
+footer img{
+    padding: 15px;
+}
+
+#socialmediafoot{
+    position: absolute;
+    right: 20px;
+    top: 5px;
+}
+
+footer hr{
+    opacity: 0.5;
+    margin: 15px;
+}
+
+#socialmediafoot li{
+    display: inline;
+
+}
+
+footer a {
+    width: 15%;
+    color: #fff;
+    font-weight: 500;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+
+
+footer li{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.copyrightfooter{
+    color: hsla(0,0%,100%,.7);
+    font-size: 10px;
+    margin: 15px 0 0;
+    letter-spacing: .5px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-left: 20px;
+}
+
+#footerdiv2{
+    position: absolute;
+    top: 95px;
+    left: 250px;
+}
+#footerdiv3{
+    position: absolute;
+    top: 95px;
+    left: 500px;
+}
+
+#footerdiv4{
+    font-family: Lyon,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42;
+    margin-top: 0;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 95px;
+    left: 700px;
+    width: 250px;
+    color: #fff;
+    text-align: left;
+    padding: 10px
+}
+
+#footerdiv4 h3{
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#footerdiv4 a, #footerdiv5 a{
+    font-weight: 600;
+    padding-top: 4px;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    font-size: 12px;
+    letter-spacing: 1.1px;
+    text-transform: uppercase;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+}
+
+#footerdiv5{
+    font-family: Lyon,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42;
+    margin-top: 0;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 95px;
+    left: 1000px;
+    width: 250px;
+    color: #fff;
+    text-align: left;
+    padding: 10px
+}
+#footerdiv5 h2{
+    font-weight: 700;
+    font-size: 18px;
+}
+#footerdiv5 h3{
+    font-family: Lyon,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42;
+    margin-bottom: 10px;
+}
+
+#footerdiv5 h4{
+    color: hsla(0,0%,100%,.7);
+    font-size: 10px;
+    margin: 15px 0 0;
+    letter-spacing: .5px;
+}
+
+
+#navbarfooter2 li{
+    display: inline;
+}
+
+#navbarfooter2{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 14px;
+}
