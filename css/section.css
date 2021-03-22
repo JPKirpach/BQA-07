@@ -16,6 +16,18 @@ section{
     font-weight: 700;
 }
 
+img{
+    object-fit: contain;
+}
+
+cite{
+    font-weight: 400;
+    color: #747474;
+    font-family: Lyon,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
 h1{
     font-size: 40px;
     line-height: 1.05;
@@ -44,7 +56,15 @@ iframe{
     height: 100%;
     height: 600px;
 }
+
+.boldcite{
+    font-weight: 600;
+    color: #171717;
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 5px;
 }
+
 .hrdiv{
     border-top: 1px dotted;
     margin-top: 20px;
@@ -144,14 +164,3 @@ iframe{
     font-size: 16px;
 }
 
-img{
-    object-fit: contain;
-}
-
-cite{
-    font-weight: 400;
-    color: #747474;
-    font-family: Lyon,Helvetica,Arial,sans-serif;
-    font-size: 12px;
-    font-style: italic;
-}
