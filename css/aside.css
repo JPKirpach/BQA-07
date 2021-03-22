@@ -1,0 +1,45 @@
+aside{
+    margin-top: 50px;
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+}
+
+aside hr{
+    width: 80%;
+    border: 3px solid #cfd8e2;
+}
+
+aside h2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 19px;
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    display: inline-block;
+    padding-top: 10px;
+    margin-bottom: 18px;
+    color: #002f6c;
+    width: 100%;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+aside li{
+    display: inline;
+}
+
+aside a{
+    margin-top: 15px;
+    width: 75%;
+    float: right;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2e2e2e;
+    word-break: break-word;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.hrtopic{
+    border:1px dotted #b9c7d5;;
+}
